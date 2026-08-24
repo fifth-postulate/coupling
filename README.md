@@ -10,8 +10,10 @@ Since the purpose is to explore, a lot of knowledge will not be in code. So do n
 
 * [discussions][project:discussions]
 * [issues][project:issues]
+* [wiki][project:wiki]
 
 [coupling:author]: https://vladikk.com/page/about/
 [coupling:book]: https://vladikk.com/page/books/
 [project:discussions]: https://github.com/fifth-postulate/coupling/discussions
 [project:issues]: https://github.com/fifth-postulate/coupling/issues
+[project:wiki]: github.com/fifth-postulate/coupling/wiki
