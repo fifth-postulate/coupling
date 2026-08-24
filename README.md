@@ -6,5 +6,10 @@ a book by [Vlad Khononov][coupling:author].
 The goal of this project is to acquire hands-on experience with the concepts from [the book][coupling:book].
 We intent to develop software and critique it through the lens of coupling.
 
+Since the purpose is to explore, a lot of knowledge will not be in code. So do not forget to checkout:
+
+* [discussions][project:discussions]
+
 [coupling:author]: https://vladikk.com/page/about/
 [coupling:book]: https://vladikk.com/page/books/
+[project:discussions]: https://github.com/fifth-postulate/coupling/discussions
