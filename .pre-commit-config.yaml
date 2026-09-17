@@ -21,9 +21,3 @@ repos:
         entry: uv run pyright
         language: system
         pass_filenames: false
-
-      - id: pytest
-        name: Pytest
-        entry: uv run pytest
-        language: system
-        pass_filenames: false
